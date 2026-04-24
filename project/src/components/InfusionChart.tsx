@@ -88,7 +88,7 @@ export function InfusionChart({ data }: InfusionChartProps) {
           size: 14,
         },
         bodyFont: {
-          size: 13,
+          size: 12,
         },
       },
     },
