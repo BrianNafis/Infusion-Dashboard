@@ -32,7 +32,7 @@ export function AlertBox({ alert, status, onClose }: AlertBoxProps) {
       <div className="flex items-start gap-3">
         <AlertTriangle className="w-6 h-6 flex-shrink-0 mt-0.5" />
         <div className="flex-1">
-          <h4 className="font-bold text-lg mb-1">⚠️Anomaly Detected!</h4>
+          <h4 className="font-bold text-lg mb-1">Anomaly Detected!</h4>
           <p className="text-sm">{alert}</p>
         </div>
         <button
