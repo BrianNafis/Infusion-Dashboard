@@ -293,7 +293,7 @@ const calculateEstimatedTime = () => {
         ) : (
           <div className="text-center py-12">
             <div className="text-gray-500 text-lg">
-              No data available
+              No Data Available
             </div>
           </div>
         )}
