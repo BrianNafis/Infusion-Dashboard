@@ -285,7 +285,7 @@ const calculateEstimatedTime = () => {
               </div>
             </div>
 
-            {/* ✅ DATA TABLE */}
+            {/* DATA TABLE */}
             <div className="mb-8">
               <DataTable data={data.slice().reverse().slice(0, 20)} />
             </div>
