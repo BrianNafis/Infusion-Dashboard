@@ -112,7 +112,7 @@ export function InfusionChart({ data }: InfusionChartProps) {
           display: true,
           text: 'Time',
           font: {
-            size: 12,
+            size: 11,
             weight: 'bold',
           },
         },
