@@ -83,7 +83,7 @@ export function InfoGrid({
             </p>
           </div>
           <div className="pt-3 border-t border-gray-200">
-            <p className="text-xs text-gray-500 mb-1">Average per Minute</p>
+            <p className="text-xs text-gray-500 mb-1">Average Per Minute</p>
             <p className="text-2xl font-bold text-emerald-600">
               {avgDropRatePerMinute.toFixed(0)}
               <span className="text-xs font-normal text-gray-500 ml-1">drops/min</span>
