@@ -100,7 +100,7 @@ export function InfoGrid({
         <div className="space-y-2">
           <p className="text-3xl font-bold text-gray-900">
             {estimatedTime}
-            <span className="text-xs font-normal text-gray-500 ml-1">minutes</span>
+            <span className="text-xs font-normal text-gray-500 ml-1">Minutes</span>
           </p>
           <p className="text-xs text-gray-500">
             Based on average drop rate
